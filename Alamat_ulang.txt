@@ -1,0 +1,12 @@
+=============================================================
+=====                  Data Diri Pembeli                =====
+=============================================================
+Nama            : fakhrir
+Alamat          : ntt
+jenis kelamin   : laki-laki
+Jasa pengiriman : JNE
+Provinsi        : Sumatera Selatan 
+Kota            : Surabaya
+Baju yang dipilih : 1.  Baju M	L	30000
+Bayar : 500000
+Kembalian : 470000

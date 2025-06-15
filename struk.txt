@@ -1,0 +1,13 @@
+=============================================================
+=====                  Struk Pembelian                  =====
+=============================================================
+Nama            : fakhrir
+Alamat          : ntt
+jenis kelamin   : laki-laki
+Jasa pengiriman : JNE
+Provinsi        : Sumatera Selatan 
+Kota            : Surabaya
+Baju yang dipilih : 1.  Baju M	L	30000
+2.  Baju X	M	10000
+Bayar : 95000
+Kembalian : 55000
